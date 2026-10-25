@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Иконка вкладки: перо-хвост на ночном небе, линии толще знака -->
+  <rect width="64" height="64" rx="14" fill="#182452"/>
+  <path d="M15 50 C 15 38, 22 27, 33 19 C 40 14, 47 8, 56 6 C 60 13, 59 23, 52 31 C 42 42, 30 48, 15 50 Z" fill="#f06a23"/>
+  <path d="M56 6 C 60 13, 59 21, 54 27 C 49 25, 44 21, 41 17 C 46 12, 51 8, 56 6 Z" fill="#ffffff"/>
+  <path d="M20 46 L 8 58" fill="none" stroke="#f3eef8" stroke-width="5" stroke-linecap="round"/>
+</svg>
